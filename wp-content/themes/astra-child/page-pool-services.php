@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Template Name: About Page
+ * Template Name: Pool Services Page
  *
- * This is the template file for the About page.
+ * This is the template file for the Pool Services page.
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
