@@ -1,22 +1,22 @@
 <?php
 
-/**
- * template name: Our Stories
- * The template for displaying the Our stories page.
- * This is the template that displays all pages by default.
- * Please note that this is the WordPress construct of pages
- * and that other 'pages' on your WordPress site may use a different template.
- * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
- * @package Astra child theme
- * @since 1.0.0
- */
+/*
+* template name: Our Stories
+* The template for displaying the Our stories page.
+* This is the template that displays all pages by default.
+* Please note that this is the WordPress construct of pages
+* and that other 'pages' on your WordPress site may use a different template.
+* @link https://developer.wordpress.org/themes/basics/template-hierarchy/
+* @package Astra child theme
+* @since 1.0.0
+*/
+
 ?>
 <?php
 if (!defined('ABSPATH')) {
     exit; // Exit if accessed directly.
 }
 get_header(); ?>
-<h1>test</h1>
 <?php if (astra_page_layout() == 'left-sidebar') : ?>
 <?php get_sidebar(); ?>
 <?php endif ?>

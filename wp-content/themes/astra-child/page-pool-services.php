@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Template Name: Pool Services Page
+ * Template Name: Pool Services
  *
  * This is the template file for the Pool Services page.
  *
@@ -9,7 +9,11 @@
  *
  * @package Astra Child Theme
  */
-
+?>
+<?php
+if (!defined('ABSPATH')) {
+    exit; // Exit if accessed directly.
+}
 get_header(); ?>
 
 <div id="primary" class="content-area">
@@ -30,49 +34,6 @@ get_header(); ?>
             </div><!-- .entry-content -->
 
         </article><!-- #post-<?php the_ID(); ?> -->
-        <!-- make a layout for about page -->
-        <div class="grid-container">
-            <div class="grid-x">
-                <div class="cell">
-                    <h2>Our Mission</h2>
-                    <p>Our mission is to provide the best possible service
-                        to our customers. We are committed to providing
-                        quality products and services at competitive prices.
-                        We are dedicated to providing a safe and healthy
-                        work environment for our employees. We are committed
-                        to the highest standards of integrity and ethical
-                        conduct in all of our business dealings.</p>
-                </div>
-            </div>
-            <div class="grid-x">
-                <div class="cell">
-                    <h2>Our Vision</h2>
-                    <p>Our vision is to be the best in the industry. We
-                        will achieve this by providing the best possible
-                        service to our customers. We will achieve this by
-                        providing quality products and services at
-                        competitive prices. We will achieve this by
-                        providing a safe and healthy work environment for
-                        our employees. We will achieve this by providing the
-                        highest standards of integrity and ethical conduct
-                        in all of our business dealings.</p>
-                </div>
-            </div>
-            <div class="grid-x">
-                <div class="cell">
-                    <h2>Our Values</h2>
-                    <p>Our values are the foundation of our company. We
-                        are committed to providing the best possible service
-                        to our customers. We are committed to providing
-                        quality products and services at competitive prices.
-                        We are dedicated to providing a safe and healthy
-                        work environment for our employees. We are committed
-                        to the highest standards of integrity and ethical
-                        conduct in all of our business dealings.</p>
-                </div>
-            </div>
-        </div>
-
 
         <?php endwhile; // End of the loop. 
         ?>

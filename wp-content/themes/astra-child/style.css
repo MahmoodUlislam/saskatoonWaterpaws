@@ -22,3 +22,7 @@ Version: 1.0
 #page .site-content:first-child {
   padding-top: 0;
 }
+.entry-header {
+  display: flex;
+  justify-content: center;
+}
