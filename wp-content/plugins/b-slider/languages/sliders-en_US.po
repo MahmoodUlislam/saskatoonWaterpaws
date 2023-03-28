@@ -1,0 +1,592 @@
+# Copyright (C) 2023 bPlugins LLC
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: B Slider 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/b-slider\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-19T17:32:55+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: slider\n"
+
+#. Plugin Name of the plugin
+#: custom-post.php:21
+#: custom-post.php:22
+msgid "B Slider"
+msgstr ""
+
+#. Description of the plugin
+msgid "Simple slider with bootstrap."
+msgstr ""
+
+#. Author of the plugin
+msgid "bPlugins LLC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://bplugins.com"
+msgstr ""
+
+#: custom-post.php:23
+#: custom-post.php:24
+msgid "Add New"
+msgstr ""
+
+#: custom-post.php:25
+msgid "Edit"
+msgstr ""
+
+#: custom-post.php:26
+msgid "New"
+msgstr ""
+
+#: custom-post.php:27
+msgid "View"
+msgstr ""
+
+#: custom-post.php:28
+msgid "Search"
+msgstr ""
+
+#: custom-post.php:29
+msgid "Sorry, we couldn't find the that you are looking for."
+msgstr ""
+
+#: assets/js/admin.js:7
+msgid "Copied Successfully!"
+msgstr ""
+
+#: assets/js/admin.js:9
+msgid "Copy To Clipboard"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5808
+msgid "Pro Feature"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5811
+msgid "Unlock B Slider Feature"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5813
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5877
+msgid "Horizontal"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5878
+#: dist/editor.js:5920
+msgid "Vertical"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5882
+msgid "Style 1"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5883
+msgid "Style 2"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5884
+msgid "Style 3"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5885
+msgid "Style 4"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5886
+msgid "Style 5"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5887
+msgid "Style 6"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5891
+msgid "Bottom Center"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5892
+msgid "Center Center"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5896
+msgid "Fade In Left"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5897
+msgid "Fade In Right"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5898
+msgid "Fade In Up"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5899
+msgid "Fade In Down"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5900
+msgid "Zoom In"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5901
+msgid "Slide In Down"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5902
+msgid "Slide In Up"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5903
+msgid "Slide In Left"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5904
+msgid "Slide In Right"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5908
+#: dist/editor.js:5914
+#: dist/editor.js:5919
+#: dist/editor.js:5924
+#: dist/editor.js:5952
+msgid "Default"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5909
+#: dist/editor.js:5915
+msgid "Fade"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5910
+msgid "Flip"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5925
+msgid "Image"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5931
+msgid "General"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5936
+#: dist/editor.js:6300
+msgid "Style"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5941
+msgid "Patterns"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5947
+msgid "Show"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5948
+msgid "Hide"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:5953
+msgid "Dot"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6082
+msgid "Help"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6084
+msgid "Read Documentation"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6089
+msgid "Would you please rate us?"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6090
+msgid "We are new and we need your help to grow!🙏"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6095
+msgid "Slides"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6100
+msgid "Slide Image:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6101
+msgid "Enter Image URL"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6103
+#: dist/editor.js:6224
+msgid "Title"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6103
+#: dist/editor.js:6105
+#: dist/editor.js:6107
+#: dist/editor.js:6109
+msgid "top"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6103
+msgid "Enter Title"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6105
+#: dist/editor.js:6238
+msgid "Description"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6105
+msgid "Enter desc"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6107
+msgid "Button label"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6107
+msgid "Enter Label"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6109
+msgid "Button Url"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6109
+msgid "Enter Url"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6111
+msgid "Open in new tab"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6114
+msgid "Remove"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6116
+msgid "Duplicate"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6124
+msgid "Add New Slide"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6130
+msgid "Left/Right Inner Gap"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6134
+msgid "Slide Direction"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6136
+msgid "Slider Height"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6142
+#: dist/editor.js:6145
+msgid "Content Position:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6150
+msgid "Arrow Style:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6153
+msgid "Slider Options"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6156
+#: dist/editor.js:6160
+msgid "Animation/Effect:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6166
+msgid "Autoplay"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6169
+msgid "Interval(ms)"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6171
+msgid "Pause on Mouse over"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6174
+msgid "Show Arrow/Navigation"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6176
+msgid "Show Indicators/Pagination"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6178
+msgid "Slide On MouseWheel"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6180
+msgid "Arrow Follow Mouse"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6183
+msgid "Slide on Mouse Drag"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6187
+#: dist/editor.js:6298
+msgid "Indicators"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6188
+msgid "Type"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6201
+msgid "Position:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6206
+msgid "Direction"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6208
+msgid "Move From Edge"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6209
+msgid "Use a negative or positive value to move in or out."
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6215
+msgid "Slider"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6216
+msgid "Overly Color"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6218
+#: dist/editor.js:6243
+msgid "Margin"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6220
+#: dist/editor.js:6294
+msgid "Border Radius"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6225
+#: dist/editor.js:6239
+#: dist/editor.js:6256
+msgid "Typography:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6227
+#: dist/editor.js:6241
+#: dist/editor.js:6284
+#: dist/editor.js:6315
+msgid "Color"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6229
+#: dist/editor.js:6262
+msgid "Padding"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6231
+#: dist/editor.js:6245
+#: dist/editor.js:6270
+msgid "Animation"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6233
+#: dist/editor.js:6249
+#: dist/editor.js:6274
+msgid "Delay(s)"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6235
+#: dist/editor.js:6251
+#: dist/editor.js:6276
+msgid "Duration(s)"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6254
+msgid "Button"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6258
+msgid "Colors"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6260
+msgid "Hover Colors"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6279
+msgid "Arrow"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6280
+msgid "Icon Size"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6286
+#: dist/editor.js:6320
+msgid "Width"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6289
+#: dist/editor.js:6322
+msgid "Height"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6291
+msgid "Background"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6317
+msgid "Active Color"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6335
+msgid "it's only available on pro version"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6349
+msgid "Apply"
+msgstr ""
+
+#: block.json
+msgctxt "block title"
+msgid "B Slider"
+msgstr ""
+
+#: block.json
+msgctxt "block description"
+msgid "Display Amazing Gutenberg Responsive Image And Content Slider"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "slider"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "bootstrap"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "carousel"
+msgstr ""

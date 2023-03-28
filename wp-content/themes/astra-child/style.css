@@ -26,3 +26,16 @@ Version: 1.0
   display: flex;
   justify-content: center;
 }
+/* h1 Text styles */
+.wp-block-heading {
+  font-size: 48px;
+  font-weight: bold;
+  color: #333;
+  /* text-transform: uppercase; */
+  transition: all 0.2s ease-in-out;
+}
+
+/* Hover styles */
+.wp-block-heading:hover {
+  text-shadow: 0 0 10px #fff;
+}
