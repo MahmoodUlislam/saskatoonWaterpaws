@@ -39,3 +39,16 @@ Version: 1.0
 .wp-block-heading:hover {
   text-shadow: 0 0 10px #fff;
 }
+
+.landingServiceBlock {
+  height: 290px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.contactBlock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
