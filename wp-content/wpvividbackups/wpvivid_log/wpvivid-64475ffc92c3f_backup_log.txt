@@ -1,0 +1,175 @@
+Log created: 2023-04-25 05:07:08
+Type: backup
+[2023-04-25 05:07:11][notice]Start backing up.
+[2023-04-25 05:07:11][notice]server info fcgi:On max execution time: 180 wp version:6.2 php version:8.1.9 db version:8.0.16 php ini:safe_mode: memory_limit:256M memory_get_usage:5.16 MB memory_get_peak_usage:5.47 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-04-25 05:07:11][notice]Prepare to backup backup_db files.
+[2023-04-25 05:07:11][notice]Start exporting database.
+[2023-04-25 05:07:11][notice]Preparing to dump table wpdg_xyz_ips_short_code
+[2023-04-25 05:07:11][notice]Preparing to dump table wpdg_links
+[2023-04-25 05:07:11][notice]Preparing to dump table wpdg_term_relationships
+[2023-04-25 05:07:12][notice]Preparing to dump table wpdg_commentmeta
+[2023-04-25 05:07:12][notice]Preparing to dump table wpdg_term_taxonomy
+[2023-04-25 05:07:12][notice]Preparing to dump table wpdg_termmeta
+[2023-04-25 05:07:12][notice]Preparing to dump table wpdg_terms
+[2023-04-25 05:07:12][notice]Preparing to dump table wpdg_usermeta
+[2023-04-25 05:07:12][notice]Preparing to dump table wpdg_users
+[2023-04-25 05:07:12][notice]Preparing to dump table wpdg_comments
+[2023-04-25 05:07:12][notice]Preparing to dump table wpdg_postmeta
+[2023-04-25 05:07:12][notice]Preparing to dump table wpdg_posts
+[2023-04-25 05:07:12][notice]Preparing to dump table wpdg_options
+[2023-04-25 05:07:13][notice]Exporting database finished.
+[2023-04-25 05:07:13][notice]Start compressing database
+[2023-04-25 05:07:13][notice]Prepare to zip file. file: saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_db.sql
+[2023-04-25 05:07:13][notice]Adding zip files completed.saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_db.part001.zip, filesize: 535.58 KB
+[2023-04-25 05:07:13][notice]Compressing database completed
+[2023-04-25 05:07:13][notice]Backing up backup_db completed.
+[2023-04-25 05:07:13][notice]Prepare to backup backup_themes files.
+[2023-04-25 05:07:15][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_themes.part001.zip index:500
+[2023-04-25 05:07:17][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_themes.part001.zip success. index:500 file size:3.12 MB
+[2023-04-25 05:07:17][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_themes.part001.zip index:1000
+[2023-04-25 05:07:21][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_themes.part001.zip success. index:1000 file size:7.60 MB
+[2023-04-25 05:07:21][notice]Backing up backup_themes completed.
+[2023-04-25 05:07:21][notice]Prepare to backup backup_plugin files.
+[2023-04-25 05:07:21][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_plugin.part001.zip index:500
+[2023-04-25 05:07:22][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_plugin.part001.zip success. index:500 file size:3.39 MB
+[2023-04-25 05:07:23][notice]Backing up backup_plugin completed.
+[2023-04-25 05:07:23][notice]Prepare to backup backup_uploads files.
+[2023-04-25 05:07:23][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_uploads.part001.zip index:500
+[2023-04-25 05:07:28][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_uploads.part001.zip success. index:500 file size:41.67 MB
+[2023-04-25 05:07:28][notice]Backing up backup_uploads completed.
+[2023-04-25 05:07:28][notice]Prepare to backup backup_content files.
+[2023-04-25 05:07:28][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_content.part001.zip index:500
+[2023-04-25 05:07:28][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_content.part001.zip success. index:500 file size:2.27 KB
+[2023-04-25 05:07:28][notice]Backing up backup_content completed.
+[2023-04-25 05:07:28][notice]Prepare to backup backup_core files.
+[2023-04-25 05:07:32][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_core.part001.zip index:500
+[2023-04-25 05:07:34][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_core.part001.zip success. index:500 file size:2.23 MB
+[2023-04-25 05:07:34][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_core.part001.zip index:1000
+[2023-04-25 05:07:34][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_core.part001.zip success. index:1000 file size:2.74 MB
+[2023-04-25 05:07:34][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_core.part001.zip index:1500
+[2023-04-25 05:07:36][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_core.part001.zip success. index:1500 file size:4.16 MB
+[2023-04-25 05:07:36][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_core.part001.zip index:2000
+[2023-04-25 05:07:42][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_core.part001.zip success. index:2000 file size:9.59 MB
+[2023-04-25 05:07:42][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_core.part001.zip index:2500
+[2023-04-25 05:07:45][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_core.part001.zip success. index:2500 file size:12.46 MB
+[2023-04-25 05:07:45][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_core.part001.zip index:3000
+[2023-04-25 05:07:46][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_core.part001.zip success. index:3000 file size:12.70 MB
+[2023-04-25 05:07:46][notice]Backing up backup_core completed.
+[2023-04-25 05:07:47][notice]Prepare to backup backup_merge files.
+[2023-04-25 05:07:47][notice]Prepare to zip file. file: saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_db.zip
+[2023-04-25 05:07:47][notice]Adding zip files completed.saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.part001.zip, filesize: 519.58 KB
+[2023-04-25 05:07:47][notice]Prepare to zip file. file: saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_themes.zip
+[2023-04-25 05:07:48][notice]Adding zip files completed.saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.part001.zip, filesize: 7.92 MB
+[2023-04-25 05:07:48][notice]Prepare to zip file. file: saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_plugin.zip
+[2023-04-25 05:07:48][notice]Adding zip files completed.saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.part001.zip, filesize: 11.27 MB
+[2023-04-25 05:07:48][notice]Prepare to zip file. file: saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_uploads.zip
+[2023-04-25 05:07:52][notice]Adding zip files completed.saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.part001.zip, filesize: 52.94 MB
+[2023-04-25 05:07:52][notice]Prepare to zip file. file: saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_content.zip
+[2023-04-25 05:07:53][notice]Adding zip files completed.saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.part001.zip, filesize: 52.94 MB
+[2023-04-25 05:07:53][notice]Prepare to zip file. file: saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_core.zip
+[2023-04-25 05:07:55][notice]Adding zip files completed.saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.part001.zip, filesize: 65.26 MB
+[2023-04-25 05:07:56][notice]Backing up backup_merge completed.
+[2023-04-25 05:07:56][notice]files: ["C:\/Users\/mahmo\/Local Sites\/saskatoonwaterpaws\/app\/public\/wp-content\/wpvividbackups\/saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip"]
+[2023-04-25 05:07:56][notice]Connect site 
+[2023-04-25 05:07:58][notice]Start uploading saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip
+[2023-04-25 05:07:59][notice]{"result":"success","file_status":{"status":"start"}}
+[2023-04-25 05:07:59][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:08:30][notice]finished send chunk
+[2023-04-25 05:08:30][warning]upload file error offset:0 B error:cURL error 28: Operation timed out after 30004 milliseconds with 0 bytes received
+[2023-04-25 05:08:30][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:09:01][notice]finished send chunk
+[2023-04-25 05:09:01][warning]upload file error offset:0 B error:cURL error 28: Operation timed out after 30013 milliseconds with 0 bytes received
+[2023-04-25 05:09:01][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:09:33][notice]finished send chunk
+[2023-04-25 05:09:33][warning]upload file error offset:0 B error:cURL error 28: Operation timed out after 30004 milliseconds with 0 bytes received
+[2023-04-25 05:09:33][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:10:04][notice]finished send chunk
+[2023-04-25 05:10:04][warning]upload file error offset:0 B error:cURL error 28: Operation timed out after 30014 milliseconds with 0 bytes received
+[2023-04-25 05:10:04][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:10:36][notice]finished send chunk
+[2023-04-25 05:10:36][notice]Failed upload backup, clear backup cache.
+[2023-04-25 05:10:39][notice]Finish upload to send_to_site error:cURL error 28: Operation timed out after 30015 milliseconds with 0 bytes received
+[2023-04-25 05:10:39][error]Uploading the file ends with an error cURL error 28: Operation timed out after 30015 milliseconds with 0 bytes received
+[2023-04-25 05:10:41][error]Task timed out.
+[2023-04-25 05:11:10][notice]Start backing up.
+[2023-04-25 05:11:10][notice]server info fcgi:On max execution time: 180 wp version:6.2 php version:8.1.9 db version:8.0.16 php ini:safe_mode: memory_limit:256M memory_get_usage:4.79 MB memory_get_peak_usage:5.10 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-04-25 05:11:10][notice]files: ["C:\/Users\/mahmo\/Local Sites\/saskatoonwaterpaws\/app\/public\/wp-content\/wpvividbackups\/saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip"]
+[2023-04-25 05:11:10][notice]Connect site 
+[2023-04-25 05:11:11][notice]Start uploading saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip
+[2023-04-25 05:11:13][notice]{"result":"success","file_status":{"status":"start"}}
+[2023-04-25 05:11:13][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:11:45][notice]finished send chunk
+[2023-04-25 05:11:45][warning]upload file error offset:0 B error:cURL error 28: Operation timed out after 30008 milliseconds with 0 bytes received
+[2023-04-25 05:11:45][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:12:16][notice]finished send chunk
+[2023-04-25 05:12:16][warning]upload file error offset:0 B error:cURL error 28: Operation timed out after 30011 milliseconds with 0 bytes received
+[2023-04-25 05:12:16][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:12:47][notice]finished send chunk
+[2023-04-25 05:12:47][warning]upload file error offset:0 B error:cURL error 28: Operation timed out after 30007 milliseconds with 0 bytes received
+[2023-04-25 05:12:47][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:13:18][notice]finished send chunk
+[2023-04-25 05:13:18][warning]upload file error offset:0 B error:cURL error 28: Operation timed out after 30013 milliseconds with 0 bytes received
+[2023-04-25 05:13:18][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:13:49][notice]finished send chunk
+[2023-04-25 05:13:49][notice]Failed upload backup, clear backup cache.
+[2023-04-25 05:13:51][notice]Finish upload to send_to_site error:cURL error 28: Operation timed out after 30008 milliseconds with 0 bytes received
+[2023-04-25 05:13:51][error]Uploading the file ends with an error cURL error 28: Operation timed out after 30008 milliseconds with 0 bytes received
+[2023-04-25 05:13:53][error]Task timed out.
+[2023-04-25 05:14:07][notice]Start backing up.
+[2023-04-25 05:14:07][notice]server info fcgi:On max execution time: 180 wp version:6.2 php version:8.1.9 db version:8.0.16 php ini:safe_mode: memory_limit:256M memory_get_usage:4.79 MB memory_get_peak_usage:5.10 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-04-25 05:14:07][notice]files: ["C:\/Users\/mahmo\/Local Sites\/saskatoonwaterpaws\/app\/public\/wp-content\/wpvividbackups\/saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip"]
+[2023-04-25 05:14:07][notice]Connect site 
+[2023-04-25 05:14:09][notice]Start uploading saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip
+[2023-04-25 05:14:11][notice]{"result":"success","file_status":{"status":"start"}}
+[2023-04-25 05:14:11][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:14:43][notice]finished send chunk
+[2023-04-25 05:14:43][warning]upload file error offset:0 B error:cURL error 28: Operation timed out after 30011 milliseconds with 0 bytes received
+[2023-04-25 05:14:43][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:15:14][notice]finished send chunk
+[2023-04-25 05:15:14][warning]upload file error offset:0 B error:cURL error 28: Operation timed out after 30011 milliseconds with 0 bytes received
+[2023-04-25 05:15:14][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:15:46][notice]finished send chunk
+[2023-04-25 05:15:46][warning]upload file error offset:0 B error:cURL error 28: Operation timed out after 30016 milliseconds with 0 bytes received
+[2023-04-25 05:15:46][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:16:17][notice]finished send chunk
+[2023-04-25 05:16:17][warning]upload file error offset:0 B error:cURL error 28: Operation timed out after 30013 milliseconds with 0 bytes received
+[2023-04-25 05:16:18][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:16:49][notice]finished send chunk
+[2023-04-25 05:16:49][notice]Failed upload backup, clear backup cache.
+[2023-04-25 05:16:51][notice]Finish upload to send_to_site error:cURL error 28: Operation timed out after 30001 milliseconds with 0 bytes received
+[2023-04-25 05:16:51][error]Uploading the file ends with an error cURL error 28: Operation timed out after 30001 milliseconds with 0 bytes received
+[2023-04-25 05:16:53][error]Task timed out.
+[2023-04-25 05:17:23][notice]Start backing up.
+[2023-04-25 05:17:23][notice]server info fcgi:On max execution time: 180 wp version:6.2 php version:8.1.9 db version:8.0.16 php ini:safe_mode: memory_limit:256M memory_get_usage:4.80 MB memory_get_peak_usage:5.11 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-04-25 05:17:23][notice]files: ["C:\/Users\/mahmo\/Local Sites\/saskatoonwaterpaws\/app\/public\/wp-content\/wpvividbackups\/saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip"]
+[2023-04-25 05:17:23][notice]Connect site 
+[2023-04-25 05:17:24][notice]Start uploading saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip
+[2023-04-25 05:17:25][notice]{"result":"success","file_status":{"status":"start"}}
+[2023-04-25 05:17:25][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:17:57][notice]finished send chunk
+[2023-04-25 05:17:57][warning]upload file error offset:0 B error:cURL error 28: Operation timed out after 30004 milliseconds with 0 bytes received
+[2023-04-25 05:17:57][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 05:18:28][notice]finished send chunk
+[2023-04-25 05:18:28][warning]upload file error offset:0 B error:cURL error 28: Operation timed out after 30002 milliseconds with 0 bytes received
+[2023-04-25 05:18:28][notice]send chunk saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip offset 0
+[2023-04-25 16:10:13][notice]Start backing up.
+[2023-04-25 16:10:13][notice]server info fcgi:On max execution time: 180 wp version:6.2 php version:8.1.9 db version:8.0.16 php ini:safe_mode: memory_limit:256M memory_get_usage:4.79 MB memory_get_peak_usage:5.10 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-04-25 16:10:13][notice]files: ["C:\/Users\/mahmo\/Local Sites\/saskatoonwaterpaws\/app\/public\/wp-content\/wpvividbackups\/saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip"]
+[2023-04-25 16:10:13][notice]Connect site 
+[2023-04-25 16:10:18][notice]Finish upload to send_to_site error:Failed to parse returned data, unable to establish connection with the target site.
+[2023-04-25 16:10:18][error]Uploading the file ends with an error Failed to parse returned data, unable to establish connection with the target site.
+[2023-04-25 16:10:20][error]Task timed out.
+[2023-04-25 16:10:35][notice]Start backing up.
+[2023-04-25 16:10:35][notice]server info fcgi:On max execution time: 180 wp version:6.2 php version:8.1.9 db version:8.0.16 php ini:safe_mode: memory_limit:256M memory_get_usage:5.07 MB memory_get_peak_usage:5.43 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-04-25 16:10:35][notice]files: ["C:\/Users\/mahmo\/Local Sites\/saskatoonwaterpaws\/app\/public\/wp-content\/wpvividbackups\/saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip"]
+[2023-04-25 16:10:35][notice]Connect site 
+[2023-04-25 16:10:36][notice]Finish upload to send_to_site error:Failed to parse returned data, unable to establish connection with the target site.
+[2023-04-25 16:10:36][error]Uploading the file ends with an error Failed to parse returned data, unable to establish connection with the target site.
+[2023-04-25 16:10:38][error]Task timed out.
+[2023-04-25 16:11:31][notice]Start backing up.
+[2023-04-25 16:11:31][notice]server info fcgi:On max execution time: 180 wp version:6.2 php version:8.1.9 db version:8.0.16 php ini:safe_mode: memory_limit:256M memory_get_usage:4.79 MB memory_get_peak_usage:5.10 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-04-25 16:11:31][notice]files: ["C:\/Users\/mahmo\/Local Sites\/saskatoonwaterpaws\/app\/public\/wp-content\/wpvividbackups\/saskatoonwaterpaws.local_wpvivid-64475ffc92c3f_2023-04-25-05-07_backup_all.zip"]
+[2023-04-25 16:11:31][notice]Connect site 
+[2023-04-25 16:11:31][notice]Finish upload to send_to_site error:Failed to parse returned data, unable to establish connection with the target site.
+[2023-04-25 16:11:31][error]Uploading the file ends with an error Failed to parse returned data, unable to establish connection with the target site.
+[2023-04-25 16:11:33][error]Backup the file ends with an error Too many resumption attempts.

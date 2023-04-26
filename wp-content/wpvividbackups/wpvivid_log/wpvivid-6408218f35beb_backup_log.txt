@@ -1,0 +1,7 @@
+[2023-04-25 04:42:18][notice]Start backing up.
+[2023-04-25 04:42:18][notice]server info fcgi:On max execution time: 180 wp version:6.2 php version:8.1.9 db version:8.0.16 php ini:safe_mode: memory_limit:256M memory_get_usage:4.80 MB memory_get_peak_usage:5.10 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-04-25 04:42:18][notice]Prepare to backup backup_merge files.
+[2023-04-25 04:42:18][notice]Prepare to zip file. file: mahmoodulislam.ca_skwaterpaws_wpvivid-6408218f35beb_2023-03-08-05-47_backup_content.zip
+[2023-04-25 04:42:18][notice]Prepare to zip file. file: mahmoodulislam.ca_skwaterpaws_wpvivid-6408218f35beb_2023-03-08-05-47_backup_core.zip
+[2023-04-25 04:42:18][notice]Backing up backup_merge completed.
+[2023-04-25 04:42:18][notice]Backup completed.
