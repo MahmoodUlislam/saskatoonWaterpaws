@@ -1,0 +1,74 @@
+Log created: 2023-04-30 03:05:08
+Type: backup
+[2023-04-30 03:05:11][notice]Start backing up.
+[2023-04-30 03:05:11][notice]server info fcgi:On max execution time: 180 wp version:6.2 php version:8.1.9 db version:8.0.16 php ini:safe_mode: memory_limit:256M memory_get_usage:5.55 MB memory_get_peak_usage:5.87 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-04-30 03:05:11][notice]Prepare to backup backup_db files.
+[2023-04-30 03:05:11][notice]Start exporting database.
+[2023-04-30 03:05:11][notice]Preparing to dump table wpdg_xyz_ips_short_code
+[2023-04-30 03:05:11][notice]Preparing to dump table wpdg_links
+[2023-04-30 03:05:11][notice]Preparing to dump table wpdg_term_relationships
+[2023-04-30 03:05:11][notice]Preparing to dump table wpdg_commentmeta
+[2023-04-30 03:05:11][notice]Preparing to dump table wpdg_term_taxonomy
+[2023-04-30 03:05:11][notice]Preparing to dump table wpdg_termmeta
+[2023-04-30 03:05:11][notice]Preparing to dump table wpdg_terms
+[2023-04-30 03:05:11][notice]Preparing to dump table wpdg_usermeta
+[2023-04-30 03:05:11][notice]Preparing to dump table wpdg_users
+[2023-04-30 03:05:11][notice]Preparing to dump table wpdg_comments
+[2023-04-30 03:05:11][notice]Preparing to dump table wpdg_postmeta
+[2023-04-30 03:05:12][notice]Preparing to dump table wpdg_posts
+[2023-04-30 03:05:12][notice]Preparing to dump table wpdg_options
+[2023-04-30 03:05:12][notice]Exporting database finished.
+[2023-04-30 03:05:12][notice]Start compressing database
+[2023-04-30 03:05:12][notice]Prepare to zip file. file: saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_db.sql
+[2023-04-30 03:05:12][notice]Adding zip files completed.saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_db.part001.zip, filesize: 688.76 KB
+[2023-04-30 03:05:12][notice]Compressing database completed
+[2023-04-30 03:05:12][notice]Backing up backup_db completed.
+[2023-04-30 03:05:12][notice]Prepare to backup backup_themes files.
+[2023-04-30 03:05:13][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_themes.part001.zip index:500
+[2023-04-30 03:05:15][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_themes.part001.zip success. index:500 file size:3.12 MB
+[2023-04-30 03:05:15][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_themes.part001.zip index:1000
+[2023-04-30 03:05:17][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_themes.part001.zip success. index:1000 file size:7.60 MB
+[2023-04-30 03:05:18][notice]Backing up backup_themes completed.
+[2023-04-30 03:05:18][notice]Prepare to backup backup_plugin files.
+[2023-04-30 03:05:18][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_plugin.part001.zip index:500
+[2023-04-30 03:05:19][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_plugin.part001.zip success. index:500 file size:4.20 MB
+[2023-04-30 03:05:20][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_plugin.part001.zip index:1000
+[2023-04-30 03:05:20][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_plugin.part001.zip success. index:1000 file size:4.44 MB
+[2023-04-30 03:05:20][notice]Backing up backup_plugin completed.
+[2023-04-30 03:05:20][notice]Prepare to backup backup_uploads files.
+[2023-04-30 03:05:20][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_uploads.part001.zip index:500
+[2023-04-30 03:05:23][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_uploads.part001.zip success. index:500 file size:46.98 MB
+[2023-04-30 03:05:23][notice]Backing up backup_uploads completed.
+[2023-04-30 03:05:23][notice]Prepare to backup backup_content files.
+[2023-04-30 03:05:23][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_content.part001.zip index:500
+[2023-04-30 03:05:23][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_content.part001.zip success. index:500 file size:2.27 KB
+[2023-04-30 03:05:23][notice]Backing up backup_content completed.
+[2023-04-30 03:05:23][notice]Prepare to backup backup_core files.
+[2023-04-30 03:05:25][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_core.part001.zip index:500
+[2023-04-30 03:05:27][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_core.part001.zip success. index:500 file size:2.23 MB
+[2023-04-30 03:05:27][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_core.part001.zip index:1000
+[2023-04-30 03:05:27][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_core.part001.zip success. index:1000 file size:2.74 MB
+[2023-04-30 03:05:27][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_core.part001.zip index:1500
+[2023-04-30 03:05:28][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_core.part001.zip success. index:1500 file size:4.16 MB
+[2023-04-30 03:05:28][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_core.part001.zip index:2000
+[2023-04-30 03:05:31][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_core.part001.zip success. index:2000 file size:9.59 MB
+[2023-04-30 03:05:31][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_core.part001.zip index:2500
+[2023-04-30 03:05:34][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_core.part001.zip success. index:2500 file size:12.46 MB
+[2023-04-30 03:05:34][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_core.part001.zip index:3000
+[2023-04-30 03:05:34][notice]Compressing zip file:saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_core.part001.zip success. index:3000 file size:12.70 MB
+[2023-04-30 03:05:35][notice]Backing up backup_core completed.
+[2023-04-30 03:05:35][notice]Prepare to backup backup_merge files.
+[2023-04-30 03:05:35][notice]Prepare to zip file. file: saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_db.zip
+[2023-04-30 03:05:35][notice]Adding zip files completed.saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_all.part001.zip, filesize: 668.18 KB
+[2023-04-30 03:05:35][notice]Prepare to zip file. file: saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_themes.zip
+[2023-04-30 03:05:35][notice]Adding zip files completed.saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_all.part001.zip, filesize: 8.06 MB
+[2023-04-30 03:05:35][notice]Prepare to zip file. file: saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_plugin.zip
+[2023-04-30 03:05:35][notice]Adding zip files completed.saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_all.part001.zip, filesize: 12.40 MB
+[2023-04-30 03:05:36][notice]Prepare to zip file. file: saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_uploads.zip
+[2023-04-30 03:05:37][notice]Adding zip files completed.saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_all.part001.zip, filesize: 59.38 MB
+[2023-04-30 03:05:37][notice]Prepare to zip file. file: saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_content.zip
+[2023-04-30 03:05:38][notice]Adding zip files completed.saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_all.part001.zip, filesize: 59.38 MB
+[2023-04-30 03:05:38][notice]Prepare to zip file. file: saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_core.zip
+[2023-04-30 03:05:39][notice]Adding zip files completed.saskatoonwaterpaws.local_wpvivid-644ddae459596_2023-04-30-03-05_backup_all.part001.zip, filesize: 71.70 MB
+[2023-04-30 03:05:40][notice]Backing up backup_merge completed.
+[2023-04-30 03:05:40][notice]Backup completed.

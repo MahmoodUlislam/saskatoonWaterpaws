@@ -52,3 +52,36 @@ Version: 1.0
   justify-content: center;
   align-items: center;
 }
+/* .entry-content {
+  margin: 0 4rem;
+} */
+
+@media (max-width: 426px) {
+  /* .entry-header {
+    padding: 3rem 0 0 0;
+  }
+  .entry-content {
+    margin: 0 auto;
+  }
+  .poolServicePageSubHeading {
+  
+  }
+  .landingServiceBlock {
+    height: 200px;
+  }
+  .wp-block-heading {
+    font-size: 32px;
+  }
+  .slide {
+    padding-top: 4rem;
+  }
+  #page .site-content {
+    padding-top: 6rem;
+  }
+  .contactBlock {
+    flex-direction: column;
+  }
+  .contactBlock .wp-block-button {
+    margin-top: 1rem;
+  } */
+}
